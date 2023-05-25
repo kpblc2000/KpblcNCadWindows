@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KpblcNCadWindows", "KpblcNC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KpblcNCadExtensions", "KpblcNCadExtensions\KpblcNCadExtensions.csproj", "{B867BBD3-C1F2-4A6B-AFEC-435AEE85D41A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KpblcNCadCore", "KpblcNCadCore\KpblcNCadCore.csproj", "{3560A026-2607-4382-A6AD-7C5C52A725B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B867BBD3-C1F2-4A6B-AFEC-435AEE85D41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B867BBD3-C1F2-4A6B-AFEC-435AEE85D41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B867BBD3-C1F2-4A6B-AFEC-435AEE85D41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3560A026-2607-4382-A6AD-7C5C52A725B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3560A026-2607-4382-A6AD-7C5C52A725B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3560A026-2607-4382-A6AD-7C5C52A725B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3560A026-2607-4382-A6AD-7C5C52A725B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

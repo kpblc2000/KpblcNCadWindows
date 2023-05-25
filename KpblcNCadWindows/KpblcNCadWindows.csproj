@@ -4,11 +4,11 @@
 		<TargetFramework>net6.0-windows</TargetFramework>
 		<ImplicitUsings>disable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<UseWPF>true</UseWPF>
 		<Version>1.0.0.1</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\KpblcNCadCore\KpblcNCadCore.csproj" />
 		<ProjectReference Include="..\KpblcNCadExtensions\KpblcNCadExtensions.csproj" />
 	</ItemGroup>
 
